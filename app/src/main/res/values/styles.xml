@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AuthenticationTheme" parent="FirebaseUI">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+<!--        <item name="colorPrimary">@color/someGreen</item>-->
+<!--        <item name="colorPrimaryDark">@color/anotherGreen</item>-->
+<!--        <item name="colorAccent">@color/purple</item>-->
+<!--        <item name="colorControlNormal">@color/someGreen</item>-->
+<!--        <item name="colorControlActivated">@color/anotherGreen</item>-->
+<!--        <item name="colorControlHighlight">@color/purple</item>-->
+    </style>
+</resources>
