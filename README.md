@@ -10,11 +10,3 @@
 ![](screenshot/Color.png)
 ![](screenshot/Title.png)
 ![](screenshot/Firebase.png)
-###3. Tasks:
--[x] Login database
--[x] Add data into Firebase database
--[x] Logout database
-
--[] Delete data
--[] Update data
--[] Sign up  
